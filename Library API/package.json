@@ -1,0 +1,23 @@
+{
+  "name": "library-api",
+  "version": "1.0.0",
+  "description": "Personal Library Manager",
+  "license": "ISC",
+  "author": "Ahmed Samir",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "cross-env nodemon server.js",
+    "start:prod": "cross-env NODE_ENV=production nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.20.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "cross-env": "^10.1.0",
+    "eslint": "^9.39.1",
+    "globals": "^16.5.0"
+  }
+}

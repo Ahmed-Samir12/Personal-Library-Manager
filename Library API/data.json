@@ -1,0 +1,101 @@
+[
+  {
+    "title": "King Sorrow",
+    "author": "Joe Hill",
+    "pages": 896,
+    "genre": "fiction",
+    "isRead": false,
+    "rating": 4.5,
+    "notes": "Arthur Oakes is a reader, a dreamer, and a student at Rackham College, Maine, renowned for its frosty winters, exceptional library, and beautiful buildings",
+    "dateAdded": "2025-10-21",
+    "dateFinished": "2025-11-20"
+  },
+  {
+    "title": "Physics for Cats",
+    "author": "Tom Gauld",
+    "pages": 160,
+    "genre": "science",
+    "isRead": true,
+    "rating": 4.3,
+    "notes": "Tom Gauld returns with Physics for Cats, his second collection of science-based cartoons for the New Scientist. Find out why every scientist worth his sodium chloride has a Tom Gauld cartoon taped to his electron microscope",
+    "dateAdded": "2025-10-7",
+    "dateFinished": "2025-11-22"
+  },
+  {
+    "title": "We Did Ok, Kid: A Memoir",
+    "author": "Anthony Hopkins",
+    "pages": 370,
+    "genre": "biography",
+    "isRead": true,
+    "rating": 4.2,
+    "notes": "Academy Award-winning actor Sir Anthony Hopkins delves into his illustrious film and theatre career, difficult childhood and path to sobriety in his honest, moving and long-awaited memoir.",
+    "dateAdded": "2025-10-28",
+    "dateFinished": "2025-11-21"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "pages": 319,
+    "genre": "non-fiction",
+    "isRead": true,
+    "rating": 4.8,
+    "notes": "No matter your goals, Atomic Habits offers a proven framework for improving—every day.",
+    "dateAdded": "2018-10-18",
+    "dateFinished": "2025-11-25"
+  },
+  {
+    "title": "Transform Your Habits",
+    "author": "James Clear",
+    "pages": 45,
+    "genre": "non-fiction",
+    "isRead": false,
+    "rating": 4.5,
+    "notes": "Good book",
+    "dateAdded": "2018-10-18",
+    "dateFinished": "2025-11-28"
+  },
+  {
+    "title": "Mastering Creativity",
+    "author": "James Clear",
+    "pages": 36,
+    "genre": "non-fiction",
+    "isRead": false,
+    "rating": 4.3,
+    "notes": "Good book",
+    "dateAdded": "2018-10-18",
+    "dateFinished": "2025-11-20"
+  },
+  {
+    "title": "Welcome to Lovecraft",
+    "author": "Joe Hill",
+    "pages": 168,
+    "genre": "fiction",
+    "isRead": false,
+    "rating": 4.3,
+    "notes": "Good book",
+    "dateAdded": "2008-10-18",
+    "dateFinished": "2025-11-23"
+  },
+  {
+    "title": "All of Us Murderers",
+    "author": "K.J. Charles",
+    "pages": 352,
+    "genre": "historical",
+    "isRead": false,
+    "rating": 4.3,
+    "notes": "Good book",
+    "dateAdded": "2008-10-18",
+    "dateFinished": "20-Nov-2025"
+  },
+  {
+    "title": "The Nuclear Age",
+    "author": "Serhii Plokhy",
+    "pages": 432,
+    "genre": "science",
+    "isRead": false,
+    "rating": 4.2,
+    "notes": "A sweeping history of the geopolitics behind the nuclear arms race, from the first atomic bomb to today's rush to stockpile nuclear weapons.",
+    "dateAdded": "2025-11-18",
+    "dateFinished": "2025-11-20"
+  }
+]
