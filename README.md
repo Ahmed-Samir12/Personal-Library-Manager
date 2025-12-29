@@ -1,5 +1,3 @@
-
-```markdown
 # Personal Library Manager API
 
 A RESTful API for managing personal book collections with advanced search, filtering, and status tracking functionality.
